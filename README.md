@@ -135,7 +135,21 @@ Engineered ML data pipelines and applied GenAI techniques across two projects â€
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/A855F7/TarunSinghChauhan" width="90%" alt="contribution graph"/>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=TarunSinghChauhan&theme=radical&hide_border=true&background=0D1117&v=6" width="70%" />
+
+</div>
+
+<br/>
+
+## ðŸ¦‡ Contribution Signal (real activity, auto-updates daily)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TarunSinghChauhan/TarunSinghChauhan/main/bat-matrix.svg" width="90%" alt="bat contribution matrix"/>
 
 </div>
 
