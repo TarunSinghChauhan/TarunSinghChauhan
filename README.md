@@ -114,7 +114,7 @@ End-to-end multimodal pipeline — embeddings, vector search, and LLM inference 
 ## 💼 Experience
 
 <details>
-<summary><b>AI Engineer Intern · ZIDIO Development</b> — Remote · Jun–Aug 2025</summary>
+<summary><b>Data Science and AI Intern · ZIDIO Development</b> — Remote · Jun–Aug 2025</summary>
 <br/>
 
 Built AI-powered Python automation pipelines integrating LLM APIs across 5+ sources, reducing downstream data errors by ~35–40%. Shipped prompt engineering workflows and Power BI dashboards saving ~4–5 hrs/week. Wrote pytest coverage and structured logging across production pipelines.
@@ -128,16 +128,6 @@ Built AI-powered Python automation pipelines integrating LLM APIs across 5+ sour
 Engineered ML data pipelines and applied GenAI techniques across two projects — an NLP chatbot on LLM APIs and a regression-based price predictor. Preprocessing and feature engineering in Pandas/NumPy.
 
 </details>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TarunSinghChauhan&theme=radical&background=0A0608&ring=EF4444&fire=EF4444&currStreakNum=ffffff&sideNums=EF4444&currStreakLabel=FCA5A5&hide_border=true&v=9" width="70%" />
-
-</div>
 
 <br/>
 
