@@ -135,7 +135,7 @@ Engineered ML data pipelines and applied GenAI techniques across two projects â€
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TarunSinghChauhan&theme=radical&hide_border=true&background=0D1117&v=6" width="70%" />
+<img src="https://streak-stats.demolab.com?user=TarunSinghChauhan&background=0A0608&border=0A0608&stroke=0A0608&ring=EF4444&fire=EF4444&currStreakNum=ffffff&sideNums=EF4444&currStreakLabel=FCA5A5&sideLabels=8B949E&dates=8B949E&hide_border=true&v=7" width="70%" />
 
 </div>
 
@@ -155,10 +155,10 @@ Engineered ML data pipelines and applied GenAI techniques across two projects â€
 
 <div align="center">
 
-![Eval](https://img.shields.io/badge/EVAL_RIGOR-Cohen's_Îº_0.81-A855F7?style=for-the-badge)
-![Agents](https://img.shields.io/badge/MULTI--AGENT-LangGraph-EC4899?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RETRIEVAL-Qdrant-22D3EE?style=for-the-badge)
-![Shipped](https://img.shields.io/badge/SHIPPED-5+_Projects-A855F7?style=for-the-badge)
+![Eval](https://img.shields.io/badge/EVAL_RIGOR-Cohen's_Îº_0.81-EF4444?style=for-the-badge)
+![Agents](https://img.shields.io/badge/MULTI--AGENT-LangGraph-B91C1C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RETRIEVAL-Qdrant-EF4444?style=for-the-badge)
+![Shipped](https://img.shields.io/badge/SHIPPED-5+_Projects-B91C1C?style=for-the-badge)
 
 </div>
 
