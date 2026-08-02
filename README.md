@@ -135,7 +135,7 @@ Engineered ML data pipelines and applied GenAI techniques across two projects â€
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TarunSinghChauhan&background=0A0608&border=0A0608&stroke=0A0608&ring=EF4444&fire=EF4444&currStreakNum=ffffff&sideNums=EF4444&currStreakLabel=FCA5A5&sideLabels=8B949E&dates=8B949E&hide_border=true&v=7" width="70%" />
+<img src="https://streak-stats.demolab.com?user=TarunSinghChauhan&background=0A0608&ring=EF4444&fire=EF4444&currStreakNum=ffffff&sideNums=EF4444&currStreakLabel=FCA5A5&sideLabels=8B949E&dates=8B949E&hide_border=true&v=8" width="70%" />
 
 </div>
 
