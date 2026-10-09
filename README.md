@@ -82,7 +82,7 @@ persisting the task with a full JSON audit trail for human approve/reject. Ident
 
 Next.js 14 · Prisma · PostgreSQL · Groq (Llama 3.3-70B) 
 
-[**→ View Repo**]((https://github.com/TarunSinghChauhan/hitl-approval-agent))
+[**→ View Repo**](https://github.com/TarunSinghChauhan/hitl-approval-agent)
 
 </td>
 <td width="50%" valign="top">
