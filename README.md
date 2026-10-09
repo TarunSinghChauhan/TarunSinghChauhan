@@ -86,12 +86,15 @@ Benchmarks GPT-4o & Claude Sonnet across 50 MMLU prompts (ROUGE-L, BERTScore, bo
 </td>
 <td width="50%" valign="top">
 
-### 🎬 CodePulse — Cinematic Code Walkthrough
-Sends code to LLaMA 4 via Groq, returns a structured `ExecutionScript` JSON driving a live animated walkthrough — variable tracking, call stack, voice narration, "Break Mode" bug injection.
+### 🎬 CodeCave — Bilingual LLM Code Tutor 
+Built a bilingual (English/Hindi) LLM code tutor that turns pasted Python/JavaScript into spoken step-by-step explanations, using a strict JSON output
+schema, server-side validation, and prompt-injection mitigation so malformed output never reaches the UI.
+Designed a provider-fallback layer (Gemini models → Groq) with runtime model discovery and 503/429 retries, plus response caching and a rule-based
+offline explainer for free-tier resilience; API keys stay server-side.
 
-`Next.js 14` `TypeScript` `Groq API`
+Gemini API · Groq API · Node.js (Vercel Serverless) · JavaScript · Web Speech API · Web Workers
 
-[**→ View Repo**](https://github.com/TarunSinghChauhan/CodePulse)
+[**→ View Repo**]((https://github.com/TarunSinghChauhan/codecave))
 
 </td>
 </tr>
