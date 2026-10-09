@@ -33,14 +33,16 @@ status:       open_to_work — India / Remote / Global Sponsored
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,js,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,js,nextjs,linux,git&theme=dark" />
 
 <br/><br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
