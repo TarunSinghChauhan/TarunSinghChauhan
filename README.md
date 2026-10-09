@@ -95,7 +95,7 @@ offline explainer for free-tier resilience; API keys stay server-side.
 
 Gemini API · Groq API · Node.js (Vercel Serverless) · JavaScript · Web Speech API · Web Workers
 
-[**→ View Repo**]((https://github.com/TarunSinghChauhan/codecave))
+[**→ View Repo**](https://github.com/TarunSinghChauhan/codecave)
 
 </td>
 </tr>
