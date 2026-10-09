@@ -76,11 +76,10 @@ Benchmarks GPT-4o & Claude Sonnet across 50 MMLU prompts (ROUGE-L, BERTScore, bo
 <tr>
 <td width="50%" valign="top">
 
-### 📈 HITL Approval Agent — Stateful AI Safety System
-Built a stateful human-in-the-loop approval agent that gates execution on a self-assessed confidence score — auto-executing above threshold, else 
-persisting the task with a full JSON audit trail for human approve/reject. Identified an architectural safety gap: the gate relied solely on self-reported confidence, not an independent risk check, letting a softly-worded high risk request auto-execute — motivating per-category approval thresholds.
+### 🛡️ HITL Approval Agent
+An AI agent that runs tasks on its own when confident, and asks a human to approve or reject when it isn't. Every decision is saved in an audit trail.
 
-Next.js 14 · Prisma · PostgreSQL · Groq (Llama 3.3-70B) 
+Next.js Prisma PostgreSQL Groq 
 
 [**→ View Repo**](https://github.com/TarunSinghChauhan/hitl-approval-agent)
 
