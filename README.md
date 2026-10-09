@@ -76,12 +76,13 @@ Benchmarks GPT-4o & Claude Sonnet across 50 MMLU prompts (ROUGE-L, BERTScore, bo
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Autonomous Financial Research Agent
-4-step reasoning chain (Market Context → Analysis → Risk → Thesis) via Yahoo Finance + DuckDuckGo APIs. SHA-256 reproducibility hash per report. **~60% cost reduction** via caching. Reports in **under 60 seconds**.
+### 📈 HITL Approval Agent — Stateful AI Safety System
+Built a stateful human-in-the-loop approval agent that gates execution on a self-assessed confidence score — auto-executing above threshold, else 
+persisting the task with a full JSON audit trail for human approve/reject. Identified an architectural safety gap: the gate relied solely on self-reported confidence, not an independent risk check, letting a softly-worded high risk request auto-execute — motivating per-category approval thresholds.
 
-`Python` `FastAPI` `OpenRouter` `Redis`
+Next.js 14 · Prisma · PostgreSQL · Groq (Llama 3.3-70B) 
 
-[**→ View Repo**](https://github.com/TarunSinghChauhan/finance-research-agent)
+[**→ View Repo**]((https://github.com/TarunSinghChauhan/hitl-approval-agent))
 
 </td>
 <td width="50%" valign="top">
