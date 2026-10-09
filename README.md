@@ -55,7 +55,8 @@ status:       open_to_work — India / Remote / Global Sponsored
 <td width="50%" valign="top">
 
 ### 🔍 LLM Evaluation Harness & Red-Teaming
-Benchmarks GPT-4o & Claude Sonnet across 50 MMLU prompts (ROUGE-L, BERTScore, bootstrapped 95% CI). LLM-as-judge ensemble — **Cohen's κ = 0.81**. 20+ adversarial red-team patterns. Regression detection: days → **under 4 minutes**.
+
+Tests GPT-4o and Claude on 50 MMLU questions and catches regressions in **under 4 minutes**. Two AI judges score the answers (**Cohen's κ = 0.81**), and 20+ attack patterns check for weak spots.
 
 `Python` `LangGraph` `LangSmith` `MLflow` `FastAPI`
 
@@ -65,7 +66,8 @@ Benchmarks GPT-4o & Claude Sonnet across 50 MMLU prompts (ROUGE-L, BERTScore, bo
 <td width="50%" valign="top">
 
 ### 🤖 Multi-Agent Code Review System
-3-agent LangGraph pipeline — static analysis → OWASP scanner → LLM fix proposal. Caught **4 critical vulnerabilities** in benchmark testing. $0.50 per-review cost budget enforced.
+
+Three AI agents review code together: static analysis, security scan (OWASP), then a suggested fix. Costs **under $0.50 per review** and caught **4 critical vulnerabilities** in testing.
 
 `Python` `LangGraph` `OpenRouter` `PostgreSQL`
 
@@ -76,37 +78,37 @@ Benchmarks GPT-4o & Claude Sonnet across 50 MMLU prompts (ROUGE-L, BERTScore, bo
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ HITL Approval Agent
-An AI agent that runs tasks on its own when confident, and asks a human to approve or reject when it isn't. Every decision is saved in an audit trail.
+### 📡 Real-Time RAG Ops Platform
 
-Next.js Prisma PostgreSQL Groq 
+A document search system that notices when its data goes stale and re-indexes automatically. **75% cache hit rate**, with a live dashboard for latency and search quality.
 
-[**→ View Repo**](https://github.com/TarunSinghChauhan/hitl-approval-agent)
+`Python` `FastAPI` `Qdrant` `LangChain` `Redis`
+
+[**→ View Repo**](https://github.com/TarunSinghChauhan/rag-ops-platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 CodeCave — Bilingual LLM Code Tutor 
-Built a bilingual (English/Hindi) LLM code tutor that turns pasted Python/JavaScript into spoken step-by-step explanations, using a strict JSON output
-schema, server-side validation, and prompt-injection mitigation so malformed output never reaches the UI.
-Designed a provider-fallback layer (Gemini models → Groq) with runtime model discovery and 503/429 retries, plus response caching and a rule-based
-offline explainer for free-tier resilience; API keys stay server-side.
+### 🛡️ HITL Approval Agent
 
-Gemini API · Groq API · Node.js (Vercel Serverless) · JavaScript · Web Speech API · Web Workers
+An AI agent that runs tasks on its own when confident, and asks a human to approve or reject when it isn't. Every decision is saved in an **audit trail**.
 
-[**→ View Repo**](https://github.com/TarunSinghChauhan/codecave)
+`Next.js` `Prisma` `PostgreSQL` `Groq`
+
+[**→ View Repo**](https://github.com/TarunSinghChauhan/hitl-approval-agent)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🧩 Multimodal Product Intelligence Platform
-End-to-end multimodal pipeline — embeddings, vector search, and LLM inference served through a Streamlit interface, fully containerized.
+### 🎬 CodeCave — Bilingual LLM Code Tutor
 
-`Python` `Vector Search` `Streamlit` `Docker`
+Paste Python or JavaScript code and hear a step-by-step explanation in **English or Hindi**. Output is validated before it reaches the UI, and it falls back to another AI provider automatically if one fails.
 
-[**→ View Repo**](https://github.com/TarunSinghChauhan/Multimodal-Product-Intelligence-Platform)
+`Gemini API` `Groq API` `Node.js` `JavaScript` `Web Speech API`
+
+[**→ View Repo**](https://github.com/TarunSinghChauhan/codecave)
 
 </td>
 </tr>
