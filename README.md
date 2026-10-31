@@ -116,6 +116,14 @@ Paste Python or JavaScript code and hear a step-by-step explanation in **English
 </tr>
 </table>
 
+<div align="center">
+
+**Also:** [ORACLE](https://github.com/TarunSinghChauhan/Oracle) — LLM observability & anomaly detection &nbsp;·&nbsp; [llm-inference-engine](https://github.com/TarunSinghChauhan/llm-inference-engine) &nbsp;·&nbsp; [finance-research-agent](https://github.com/TarunSinghChauhan/finance-research-agent)
+
+[**→ All projects in one place**](https://github.com/TarunSinghChauhan/top-ai-projects)
+
+</div>
+
 <br/>
 
 ## 💼 Experience
